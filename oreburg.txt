@@ -1,6 +1,5 @@
 <span id="a">Hello</span>:<span id="b">~</span><span id="c">$</span> % cd<!-- laglaglaglaglaglag --> desktop
 <span id="a">Connecting to the server..</span>:<span id="b">~</span><span id="c">$</span> [error] <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the server.<br/><br/>
-This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
 
 <pre>
 <span id="a">
@@ -9,6 +8,7 @@ This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
  / _  / /_/ / , _/ __ |  / ,< / __ |/    / (_ / 
 /____/\____/_/|_/_/ |_| /_/|_/_/ |_/_/|_/\___/ </span>
 </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
 <pre>
 Check my portfolio here;<a href="https://www.borakang.com" target="_blank"> portfolio</a>
 
