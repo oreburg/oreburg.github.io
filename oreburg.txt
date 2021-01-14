@@ -1,5 +1,5 @@
 <span id="a">Welcome</span>:<span id="b">~</span><span id="c">$</span> cd logged in/<!-- laglaglaglaglaglag -->/Empty_Space_1
-<span id="a">Connecting_to_BK_server...</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the chat room<br/><br/>
+<span id="a">Connecting to BK server...</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the chat room<br/><br/>
 Wanna see something cool? "<span id="k">MAGIC</span>". <!-- sjkfhskjf -->
 
 <pre>
@@ -12,12 +12,11 @@ Wanna see something cool? "<span id="k">MAGIC</span>". <!-- sjkfhskjf -->
     \|_______|        \|_______|         \|__|\|__|       \|__|\|__|
     
     
-     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hi, my name is Bora Kang</p>
+<p>You're not hacked. Don't worry.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>You can check my portfolio here:<a href="link">portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>I make beats too.<br><br><br>If you like to check out my music, here's the link:<a href="link">music</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+feel free to send me an email at<!-- longlonglongcomment --><a href="oreburg7@gmail.com">email</a>.
 
-<p>Cheers!</p>
+<p>Bye!</p>
