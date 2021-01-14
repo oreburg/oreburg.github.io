@@ -1,5 +1,5 @@
 <span id="a">Hi</span>:<span id="b">~</span><span id="c">$</span> cd<!-- laglaglaglaglaglag -->/File_1
-<span id="a">Connecting to the server...</span>:<span id="b">~</span><span id="c">$</span> error <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the server.<br/><br/>
+<span id="a">Connecting to the server...</span>:<span id="b">~</span><span id="c">$</span> [error] <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the server.<br/><br/>
 This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
 
 <pre>
