@@ -3,8 +3,11 @@
 This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
 
 <pre>
-
-     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+   ___  ____  ___  ___     __ _____   _  _______
+  / _ )/ __ \/ _ \/ _ |   / //_/ _ | / |/ / ___/
+ / _  / /_/ / , _/ __ |  / ,< / __ |/    / (_ / 
+/____/\____/_/|_/_/ |_| /_/|_/_/ |_/_/|_/\___/ 
+</pre><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
      <pre>
 Hi, my name is Bora Kang.
 
