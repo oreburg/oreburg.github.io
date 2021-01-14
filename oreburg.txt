@@ -1,4 +1,4 @@
-<span id="a">Hello</span>:<span id="b">~</span><span id="c">$</span> cd logged in/<!-- laglaglaglaglaglag -->/Empty_Space_1
+<span id="a">Hi</span>:<span id="b">~</span><span id="c">$</span> cd logged in/<!-- laglaglaglaglaglag -->/Empty_Space_1
 <span id="a">Connecting to the server...</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the chat room<br/><br/>
 This is "<span id="k">BORA</span>". <!-- sjkfhskjf -->
 
