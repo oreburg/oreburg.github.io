@@ -12,11 +12,11 @@ This is "<span id="k">BORA</span>". <!-- sjkfhskjf -->
     \|_______|        \|_______|         \|__|\|__|       \|__|\|__|
     
     
-     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hi, my name is Bora Kang</p>
-<p>You're not hacked. Don't worry.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p>You can check my portfolio here:<a href="link">portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I make beats too.<br><br><br>If you like to check out my music, here's the link:<a href="link">music</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-
-feel free to send me an email at<!-- longlonglongcomment --><a href="oreburg7@gmail.com">email</a>.
+     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag --><pre>Hi, my name is Bora Kang
+     You're not hacked. Don't worry.
+     You can check my portfolio here:<a href="link">portfolio</a>.
+     I make beats too.<br><br><br>If you like to check out my music, here's the link:<a href="link">music</a>.
+     </pre><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+     feel free to send me an email at<!-- longlonglongcomment --><a href="oreburg7@gmail.com">email</a>.
 
 <p>Bye!</p>
