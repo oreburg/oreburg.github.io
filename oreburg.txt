@@ -15,8 +15,8 @@ This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
      </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
      <pre>
 Hi, my name is Bora Kang.
-You can check my portfolio here:<a href="link">portfolio</a>.
-<br><br><br>If you like to check out my music, <a href="link">here's the link.</a>.
+You can check my portfolio here:<a href="http://borakang.com/">portfolio</a>.
+<br><br><br>If you like to check out my music, <a href="https://soundcloud.com/gpu-lv-99">here's the link.</a>.
 </pre><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
      feel free to send me an email at <!-- longlonglongcomment --><a href="oreburg7@gmail.com">oreburg7@gmail.com</a>.
 
