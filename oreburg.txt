@@ -14,7 +14,7 @@ Check my portfolio here;<a href="https://www.borakang.com" target="_blank"> port
 
 If you like to check out my music, <a href="https://soundcloud.com/gpu-lv-99" target="_blank">here's the link</a>.</pre>
 <!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<br><br><span id="v">feel free to send me an email at <!-- longlonglongcomment --><a href="oreburg7@gmail.com" target="_blank"> oreburg7@gmail.com</a></span>
+<br><br><span id="op">feel free to send me an email at <!-- longlonglongcomment --><a href="oreburg7@gmail.com" target="_blank"> oreburg7@gmail.com</a></span>
 
 <p>Enjoy!</p>
 <p>[system] BK left the server.</p>
