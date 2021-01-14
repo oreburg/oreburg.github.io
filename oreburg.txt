@@ -2,16 +2,17 @@
 <span id="a">Connecting_to_BK_server...</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Eric Frommelt joined the chat room<br/><br/>
 Wanna see something cool? "<span id="k">MAGIC</span>". <!-- sjkfhskjf -->
 
-              <br>
- ________      <br>
-|\   __  \     <br>
-\ \  \|\ /_    <br>
- \ \   __  \   <br>
-  \ \  \|\  \  <br>
-   \ \_______\ <br>
-    \|_______| <br>
-               <br>
-               <br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<pre>
+ ________          ________          ________          ________              
+|\   __  \        |\   __  \        |\   __  \        |\   __  \
+\ \  \|\ /_       \ \  \|\  \        \ \  \|\  \      \ \  \|\  \ 
+ \ \   __  \       \ \  \\\  \        \ \   _  _\      \ \   __  \
+  \ \  \|\  \       \ \  \\\  \        \ \  \\  \|      \ \  \ \  \
+   \ \_______\       \ \_______\        \ \__\\ _\       \ \__\ \__\
+    \|_______|        \|_______|         \|__|\|__|       \|__|\|__|
+    
+    
+     </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
