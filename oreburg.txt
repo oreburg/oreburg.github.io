@@ -14,8 +14,7 @@ This is <span id="k">BORA</span> speaking. <!-- sjkfhskjf -->
     
      </pre><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
      <pre>
-Hi, my name is Bora Kang
-You're not hacked. Don't worry.
+Hi, my name is Bora Kang.
 You can check my portfolio here:<a href="link">portfolio</a>.
 <br><br><br>If you like to check out my music, <a href="link">here's the link.</a>.
 </pre><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
