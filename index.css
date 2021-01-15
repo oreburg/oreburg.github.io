@@ -30,15 +30,19 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    	animation: change 2s;
 }
 
 #op{
     	color: #888888
 }
 
+#v {
+	color: rgb(114, 114, 114);
+}
+
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
+    	0%  { color:  #ff0096; }
+    	50% { color:  #ff0096; }
     	99% { color: black; }
 }
