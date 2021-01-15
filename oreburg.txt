@@ -1,4 +1,4 @@
-<span id="a">Hello</span>:<span id="b">~</span><span id="c">$</span> % cd<!-- laglaglaglaglaglag --> desktop
+<span id="a">Hello</span>:<span id="b">~</span><span id="c">$</span> cd<!-- laglaglaglaglaglag --> desktop
 <span id="a">Connecting to the server..</span>:<span id="b">~</span><span id="c">$</span> [system] <!-- laglaglaglaglaglaglaglaglag --> Guest joined the server.<br/><br/>
 
 <pre>
